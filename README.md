@@ -1,4 +1,4 @@
-# Canine Rush
+# Canine-Rush
 
 A new Flutter project.
 
